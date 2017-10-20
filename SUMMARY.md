@@ -1,6 +1,7 @@
 # 目录
 
-* [前言](chapter00/preface.md)
+* [前言一](chapter00/preface00.md)
+* [前言二](chapter00/preface01.md)
 * [习题](chapter01/README.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
